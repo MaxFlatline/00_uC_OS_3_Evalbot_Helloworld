@@ -1,9 +1,3 @@
-[submodule "Middleware/--force"]
-	path = Middleware/--force
-	url = https://github.com/weston-embedded/uC-OS3.git
-[submodule "uC-OS3"]
-	path = uC-OS3
-	url = https://github.com/weston-embedded/uC-OS3.git
 [submodule "Middleware/uC-OS3"]
 	path = Middleware/uC-OS3
 	url = https://github.com/weston-embedded/uC-OS3.git
