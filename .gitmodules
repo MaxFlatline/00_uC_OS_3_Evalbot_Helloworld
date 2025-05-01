@@ -7,3 +7,6 @@
 [submodule "Middleware/uC-CPU"]
 	path = Middleware/uC-CPU
 	url = https://github.com/weston-embedded/uC-CPU.git
+[submodule "Middleware/WestonEmbedded"]
+	path = Middleware/WestonEmbedded
+	url = https://github.com/weston-embedded/uC-OS3.git
