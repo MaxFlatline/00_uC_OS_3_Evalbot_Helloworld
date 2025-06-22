@@ -1,4 +1,11 @@
+.POSIX:
+.SUFFIXES:
 #Toolchain
-OBJ_DIR=/Objects/
+CC         = cc
+CFLAGS     = -W -O
+LDLIBS     = -lm
 
+# Debugging tools
+all:
+	.c .o
 
